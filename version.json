@@ -1,0 +1,12 @@
+
+{
+  "versionName": "1.5.0",
+  "versionCode": 15,
+  "downloadUrl": "",
+  "releaseNotes": [
+    "Mejoras en Panceta",
+    "Correcciones de errores",
+    "Optimizacion de descargas"
+  ],
+  "mandatory": false
+}
