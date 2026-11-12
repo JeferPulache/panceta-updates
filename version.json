@@ -1,12 +1,17 @@
-
 {
-  "versionName": "1.5.0",
-  "versionCode": 15,
-  "downloadUrl": "",
+  "versionName": "1.2.0",
+  "versionCode": 5,
+  "downloadUrl": "https://www.mediafire.com/file/TU_ENLACE_AQUI/videomax-downloader-v1.2.0.apk/file",
   "releaseNotes": [
-    "Mejoras en Panceta",
-    "Correcciones de errores",
-    "Optimizacion de descargas"
+    "Interfaces independientes y exclusivas para TikTok, Instagram, YouTube, Facebook, X y Reddit",
+    "Nuevo sistema de detección e instalación de actualizaciones mediante MediaFire",
+    "Centro de plataformas en la pantalla de inicio con acceso rápido y badges visuales",
+    "Integración del reproductor multimedia en cada pantalla con control de velocidad (0.5x - 2.0x)",
+    "Sección dedicada de 'Actualizaciones de Panceta' en los ajustes de la aplicación",
+    "Optimizaciones visuales y de áreas seguras para celulares Xiaomi, Redmi y POCO"
   ],
-  "mandatory": false
+  "mandatory": false,
+  "sha256": "691DA5F2426578DD7C20064FF70367084D119069F288602571D5385A5BEA18FA",
+  "fileSize": "5.44 MB",
+  "publishDate": "2026-11-11"
 }
